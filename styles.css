@@ -11,7 +11,7 @@
     var(--primary-color),
     var(--secondary-color)
   );
-  --max-width: 1200px;
+  --max-width: 1350px;
 }
 
 * {
